@@ -40,6 +40,7 @@ b.next = c
 
 puts b.print_forward(a)
 
-# 3 -> 2 -> 1
+#output inputan pertama, akan menjadi head
+#ketiga kedua pertama
 
 
